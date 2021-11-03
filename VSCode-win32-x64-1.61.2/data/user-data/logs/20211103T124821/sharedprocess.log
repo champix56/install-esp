@@ -1,0 +1,10 @@
+[2021-11-03 12:48:24.129] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:26.036] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:28.257] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:33.644] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-11-03 12:48:40.120] [sharedprocess] [info] Installing extension: mhutchie.git-graph
+[2021-11-03 12:48:41.466] [sharedprocess] [info] Downloaded extension: mhutchie.git-graph e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\mhutchie.git-graph-1.30.0
+[2021-11-03 12:48:41.620] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.4e4e6d25-beb1-4580-8331-6f4a606b3891: mhutchie.git-graph
+[2021-11-03 12:48:41.756] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\mhutchie.git-graph-1.30.0
+[2021-11-03 12:48:41.759] [sharedprocess] [info] Extracting completed. mhutchie.git-graph
+[2021-11-03 12:48:41.761] [sharedprocess] [info] Extension installed successfully: mhutchie.git-graph

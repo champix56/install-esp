@@ -1,0 +1,62 @@
+{
+	"name": "arduino-snippets-plus",
+	"displayName": "arduino-snippets-plus",
+	"description": "A fork of arduino-snippets with customizations",
+	"version": "1.0.3",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/OwenFlood/arduino-snippets"
+	},
+	"scripts": {
+		"vscode:prepublish": "npm run compile",
+		"compile": "tsc -p ./",
+		"watch": "tsc -watch -p ./"
+	},
+	"publisher": "owen-flood",
+	"engines": {
+		"vscode": "^1.58.0"
+	},
+	"main": "./out/arduino-snippets.js",
+	"categories": [
+		"Snippets"
+	],
+	"activationEvents": [
+		"onLanguage:cpp"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "cpp",
+				"path": "./snippets/arduino-snippets.ts"
+			}
+		],
+		"configuration": {
+			"type": "object",
+			"title": "Arduino Snippets Plus",
+			"properties": {
+				"arduino-snippets-plus.same-line-curlies": {
+					"type": "boolean",
+					"default": true,
+					"description": "Places curly brackets on the same line rather than the next line"
+				}
+			}
+		}
+	},
+	"devDependencies": {
+		"@types/vscode": "^1.58.0",
+		"@types/node": "14.x",
+		"typescript": "^4.3.2"
+	},
+	"icon": "assets/img/icon.png",
+	"keywords": [
+		"Arduino",
+		"Snippets"
+	],
+	"license": "MIT",
+	"__metadata": {
+		"id": "926d24fd-8622-4316-8253-636efa77371f",
+		"publisherId": "bc57de22-9c41-4fd6-ad7b-816570ae845a",
+		"publisherDisplayName": "Owen Flood",
+		"installedTimestamp": 1635940065182
+	}
+}

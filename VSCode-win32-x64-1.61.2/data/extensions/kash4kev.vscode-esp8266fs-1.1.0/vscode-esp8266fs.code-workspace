@@ -1,0 +1,23 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "C:\\Program Files (x86)\\Arduino"
+		},
+		{
+			"path": "C:\\Users\\Kev\\AppData\\Local\\Arduino15"
+		},
+		{
+			"path": "C:\\Code\\Mailbox\\Blink"
+		},
+		{
+			"path": "C:\\Code\\vscode"
+		},
+		{
+			"path": "C:\\Code\\vscode-arduino"
+		}
+	],
+	"settings": {}
+}

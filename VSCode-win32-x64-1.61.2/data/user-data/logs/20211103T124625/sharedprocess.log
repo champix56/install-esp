@@ -1,0 +1,46 @@
+[2021-11-03 12:46:29.919] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:46:30.267] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:46:36.252] [sharedprocess] [info] Installing extension: platformio.platformio-ide
+[2021-11-03 12:46:37.255] [sharedprocess] [info] Installing extension: ms-vscode.cpptools
+[2021-11-03 12:46:38.683] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\ms-vscode.cpptools-1.7.1
+[2021-11-03 12:46:38.973] [sharedprocess] [info] [logs cleanup]: Starting to clean up old logs.
+[2021-11-03 12:46:39.586] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.b6eed209-3e79-4f1d-bf36-6d4b98fd35f1: ms-vscode.cpptools
+[2021-11-03 12:46:39.742] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-vscode.cpptools-1.7.1
+[2021-11-03 12:46:39.746] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools
+[2021-11-03 12:46:41.226] [sharedprocess] [info] Downloaded extension: platformio.platformio-ide e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\platformio.platformio-ide-2.3.4
+[2021-11-03 12:46:44.562] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.ffb07769-1712-4153-9037-dea4e5803900: platformio.platformio-ide
+[2021-11-03 12:46:44.739] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\platformio.platformio-ide-2.3.4
+[2021-11-03 12:46:44.741] [sharedprocess] [info] Extracting completed. platformio.platformio-ide
+[2021-11-03 12:46:44.744] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools
+[2021-11-03 12:46:44.744] [sharedprocess] [info] Extension installed successfully: platformio.platformio-ide
+[2021-11-03 12:46:58.984] [sharedprocess] [info] [code cache cleanup]: Starting to clean up old code cache folders.
+[2021-11-03 12:46:58.985] [sharedprocess] [info] [storage cleanup]: Starting to clean up storage folders.
+[2021-11-03 12:47:08.977] [sharedprocess] [info] [language pack cache cleanup]: Starting to clean up unused language packs.
+[2021-11-03 12:47:40.462] [sharedprocess] [info] Installing extension: vsciot-vscode.vscode-arduino
+[2021-11-03 12:47:43.200] [sharedprocess] [info] Installing extension: owen-flood.arduino-snippets-plus
+[2021-11-03 12:47:44.916] [sharedprocess] [info] Downloaded extension: vsciot-vscode.vscode-arduino e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\vsciot-vscode.vscode-arduino-0.4.6
+[2021-11-03 12:47:45.054] [sharedprocess] [info] Downloaded extension: owen-flood.arduino-snippets-plus e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\owen-flood.arduino-snippets-plus-1.0.3
+[2021-11-03 12:47:45.180] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.c78b0234-6dbe-4a3e-9462-7b01efd71d09: owen-flood.arduino-snippets-plus
+[2021-11-03 12:47:45.312] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\owen-flood.arduino-snippets-plus-1.0.3
+[2021-11-03 12:47:45.316] [sharedprocess] [info] Extracting completed. owen-flood.arduino-snippets-plus
+[2021-11-03 12:47:45.319] [sharedprocess] [info] Extension installed successfully: owen-flood.arduino-snippets-plus
+[2021-11-03 12:47:48.688] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.6733463d-0f8d-4a95-bbdf-82138f77dfce: vsciot-vscode.vscode-arduino
+[2021-11-03 12:47:48.712] [sharedprocess] [info] Installing extension: kash4kev.vscode-esp8266fs
+[2021-11-03 12:47:48.779] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\vsciot-vscode.vscode-arduino-0.4.6
+[2021-11-03 12:47:48.792] [sharedprocess] [info] Extracting completed. vsciot-vscode.vscode-arduino
+[2021-11-03 12:47:48.793] [sharedprocess] [info] Extension installed successfully: vsciot-vscode.vscode-arduino
+[2021-11-03 12:47:50.128] [sharedprocess] [info] Downloaded extension: kash4kev.vscode-esp8266fs e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\kash4kev.vscode-esp8266fs-1.1.0
+[2021-11-03 12:47:50.210] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.e94dd5d7-09ca-4b8b-8b51-b275091f13c0: kash4kev.vscode-esp8266fs
+[2021-11-03 12:47:50.263] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\kash4kev.vscode-esp8266fs-1.1.0
+[2021-11-03 12:47:50.266] [sharedprocess] [info] Extracting completed. kash4kev.vscode-esp8266fs
+[2021-11-03 12:47:50.267] [sharedprocess] [info] Extension installed successfully: kash4kev.vscode-esp8266fs
+[2021-11-03 12:48:10.930] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:12.512] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:14.498] [sharedprocess] [info] WSL is not installed, so could not detect WSL profiles
+[2021-11-03 12:48:18.646] [sharedprocess] [info] Installing extension: ms-ceintl.vscode-language-pack-fr
+[2021-11-03 12:48:19.931] [sharedprocess] [info] Downloaded extension: ms-ceintl.vscode-language-pack-fr e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\user-data\CachedExtensionVSIXs\ms-ceintl.vscode-language-pack-fr-1.61.5
+[2021-11-03 12:48:20.178] [sharedprocess] [info] Extracted extension to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\.19188380-48c4-49be-a8eb-4fb2140aa24f: ms-ceintl.vscode-language-pack-fr
+[2021-11-03 12:48:20.265] [sharedprocess] [info] Renamed to E:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-ceintl.vscode-language-pack-fr-1.61.5
+[2021-11-03 12:48:20.268] [sharedprocess] [info] Extracting completed. ms-ceintl.vscode-language-pack-fr
+[2021-11-03 12:48:20.268] [sharedprocess] [info] Adding language packs from the extension ms-ceintl.vscode-language-pack-fr
+[2021-11-03 12:48:20.355] [sharedprocess] [info] Extension installed successfully: ms-ceintl.vscode-language-pack-fr

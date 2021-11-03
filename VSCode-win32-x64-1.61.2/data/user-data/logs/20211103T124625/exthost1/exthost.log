@@ -1,0 +1,100 @@
+[2021-11-03 12:46:29.822] [exthost] [info] extension host started
+[2021-11-03 12:46:29.983] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-03 12:46:29.984] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-11-03 12:46:30.027] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-03 12:46:30.027] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-11-03 12:46:30.177] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-03 12:46:30.177] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/git/dist/main
+[2021-11-03 12:46:30.463] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2021-11-03 12:46:30.463] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/github/dist/extension.js
+[2021-11-03 12:46:30.482] [exthost] [info] eager extensions activated
+[2021-11-03 12:46:30.485] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-03 12:46:30.485] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-03 12:46:30.762] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:46:30.762] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-03 12:46:30.793] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:46:30.794] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-03 12:46:30.802] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:46:30.802] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-11-03 12:46:31.232] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-03 12:46:31.232] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/github-authentication/dist/extension.js
+[2021-11-03 12:46:45.011] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: '*'
+[2021-11-03 12:46:45.011] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/ms-vscode.cpptools-1.7.1/dist/main
+[2021-11-03 12:46:50.962] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: false, activationEvent: '*'
+[2021-11-03 12:46:50.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/platformio.platformio-ide-2.3.4/dist/extension
+[2021-11-03 12:47:12.821] [exthost] [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-03 12:47:12.821] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/configuration-editing/dist/configurationEditingMain
+[2021-11-03 12:47:12.833] [exthost] [info] ExtensionService#_doActivateExtension vscode.extension-editing, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-03 12:47:12.833] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/extension-editing/dist/extensionEditingMain
+[2021-11-03 12:47:12.847] [exthost] [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-03 12:47:12.847] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/json-language-features/client/dist/node/jsonClientMain
+[2021-11-03 12:47:12.899] [exthost] [info] ExtensionService#_doActivateExtension vscode.npm, startup: false, activationEvent: 'onLanguage:json'
+[2021-11-03 12:47:12.899] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/npm/dist/npmMain
+[2021-11-03 12:47:49.016] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino, startup: false, activationEvent: '*'
+[2021-11-03 12:47:49.016] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/vsciot-vscode.vscode-arduino-0.4.6/out/src/extension
+[2021-11-03 12:48:09.208] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-03 12:48:09.219] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-vscode.cpptools-1.7.1\dist\main.js:49395:13)
+	at Object.deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-vscode.cpptools-1.7.1\dist\main.js:54453:27)
+	at w._deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:11277)
+	at e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at w.deactivateAll (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:9979)
+	at b.terminate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:103:723)
+	at o (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Socket.EventEmitter.emit (domain.js:467:12)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-11-03 12:48:10.221] [exthost] [info] exiting with code 0
+[2021-11-03 12:48:11.469] [exthost] [info] extension host started
+[2021-11-03 12:48:11.553] [exthost] [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+[2021-11-03 12:48:11.553] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/microsoft-authentication/dist/extension.js
+[2021-11-03 12:48:11.574] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2021-11-03 12:48:11.574] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-11-03 12:48:11.583] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*', root cause: vscode.github
+[2021-11-03 12:48:11.583] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/git/dist/main
+[2021-11-03 12:48:11.606] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: true, activationEvent: '*', root cause: vsciot-vscode.vscode-arduino
+[2021-11-03 12:48:11.606] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/ms-vscode.cpptools-1.7.1/dist/main
+[2021-11-03 12:48:11.854] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.js-debug, startup: false, activationEvent: 'onCommand:extension.js-debug.clearAutoAttachVariables'
+[2021-11-03 12:48:11.854] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/ms-vscode.js-debug/src/extension.js
+[2021-11-03 12:48:11.962] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: false, activationEvent: '*'
+[2021-11-03 12:48:11.962] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/github/dist/extension.js
+[2021-11-03 12:48:11.980] [exthost] [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+[2021-11-03 12:48:11.980] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/github-authentication/dist/extension.js
+[2021-11-03 12:48:12.013] [exthost] [info] ExtensionService#_doActivateExtension platformio.platformio-ide, startup: true, activationEvent: '*'
+[2021-11-03 12:48:12.013] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/platformio.platformio-ide-2.3.4/dist/extension
+[2021-11-03 12:48:12.672] [exthost] [info] ExtensionService#_doActivateExtension vsciot-vscode.vscode-arduino, startup: true, activationEvent: '*'
+[2021-11-03 12:48:12.672] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/data/extensions/vsciot-vscode.vscode-arduino-0.4.6/out/src/extension
+[2021-11-03 12:48:12.824] [exthost] [info] eager extensions activated
+[2021-11-03 12:48:12.848] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:48:12.848] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/emmet/dist/node/emmetNodeMain
+[2021-11-03 12:48:12.857] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:48:12.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/merge-conflict/dist/mergeConflictMain
+[2021-11-03 12:48:12.861] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl-recommender, startup: false, activationEvent: 'onStartupFinished'
+[2021-11-03 12:48:12.861] [exthost] [info] ExtensionService#loadCommonJSModule file:///e:/GE-POWER/espInstall/install-esp/VSCode-win32-x64-1.61.2/resources/app/extensions/ms-vscode-remote.remote-wsl-recommender/dist/extension.js
+[2021-11-03 12:48:20.855] [exthost] [info] extension host terminating: renderer closed the socket
+[2021-11-03 12:48:20.860] [exthost] [error] TypeError: Cannot read property 'timeTelemetryCollector' of undefined
+	at Object.deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-vscode.cpptools-1.7.1\dist\main.js:49395:13)
+	at Object.deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\data\extensions\ms-vscode.cpptools-1.7.1\dist\main.js:54453:27)
+	at w._deactivate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:11277)
+	at e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:9991
+	at Array.map (<anonymous>)
+	at w.deactivateAll (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:99:9979)
+	at b.terminate (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:103:723)
+	at o (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:113:32535)
+	at Socket.<anonymous> (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:113:30185)
+	at Socket.emit (events.js:327:22)
+	at Socket.EventEmitter.emit (domain.js:467:12)
+	at Pipe.<anonymous> (net.js:673:12)
+[2021-11-03 12:48:20.865] [exthost] [error] ProxyResolver#resolveProxy Canceled: Canceled
+	at Object.n [as canceled] (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:5:1157)
+	at i._remoteCall (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:13876)
+	at Proxy.R.<computed>.$.charCodeAt.R.<computed> (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:10271)
+	at E.resolveProxy (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:98:39347)
+	at Object.resolveProxy (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\out\vs\workbench\services\extensions\node\extensionHostProcess.js:103:58244)
+	at useProxySettings (e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:159:16)
+	at e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:107:13
+	at e:\GE-POWER\espInstall\install-esp\VSCode-win32-x64-1.61.2\resources\app\node_modules.asar\vscode-proxy-agent\out\index.js:335:13
+	at processTicksAndRejections (internal/process/task_queues.js:93:5) 
+[2021-11-03 12:48:21.870] [exthost] [info] exiting with code 0
